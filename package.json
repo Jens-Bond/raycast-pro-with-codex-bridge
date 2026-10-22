@@ -1,0 +1,18 @@
+{
+  "name": "raycast-codex-bridge",
+  "version": "1.0.0",
+  "private": false,
+  "description": "A local bridge connecting Raycast AI to the Codex CLI runtime.",
+  "author": "Jens-Bond",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "patch": "node scripts/patch-raycast.js",
+    "unpatch": "node scripts/unpatch-raycast.js",
+    "install-agent": "node scripts/install-agent.js",
+    "uninstall-agent": "node scripts/uninstall-agent.js"
+  }
+}
