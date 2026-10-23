@@ -1,6 +1,7 @@
 # Raycast Codex Bridge
 
-A local bridge that connects Raycast AI to the Codex CLI runtime with real-time streaming. Also enables pro features locally.
+A local bridge providing real-time streaming between Raycast AI and the Codex CLI runtime. It lets you power native Raycast and Pro AI features directly through your existing ChatGPT subscription.
+Also enables Raycast Pro features locally.
 
 ## Setup
 
