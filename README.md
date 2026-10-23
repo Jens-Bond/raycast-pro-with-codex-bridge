@@ -1,6 +1,6 @@
 # Raycast Codex Bridge
 
-A local bridge that connects Raycast AI to the Codex CLI runtime with real-time streaming.
+A local bridge that connects Raycast AI to the Codex CLI runtime with real-time streaming. Also enables pro features locally.
 
 ## Setup
 
